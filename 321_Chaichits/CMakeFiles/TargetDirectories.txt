@@ -1,0 +1,3 @@
+/Users/chay-chitsd/Desktop/SAVE/mg_t1/321_Chaichits/CMakeFiles/rebuild_cache.dir
+/Users/chay-chitsd/Desktop/SAVE/mg_t1/321_Chaichits/CMakeFiles/edit_cache.dir
+/Users/chay-chitsd/Desktop/SAVE/mg_t1/321_Chaichits/CMakeFiles/rt.dir
